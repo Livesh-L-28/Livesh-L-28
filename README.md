@@ -2,31 +2,158 @@
 
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,35:0B1530,70:4F46E5,100:A855F7&height=230&section=header&text=LIVESH%20L.&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20FORWARD%20ENGINEER&descAlignY=62&descSize=20&animation=fadeIn" width="100%"/>
+<div align="center">
 
-### `AI / LLM ENGINEER`
+<!-- ═══════════════════════════════════════════════════════ -->
 
-**Building intelligent systems across LLMs, RAG, Context Engineering, AI Security, Computer Vision, Backend & Cloud.**
+<!--                    3D ANIMATED HERO                    -->
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:0B1530,50:312E81,75:6D28D9,100:A21CAF&height=280&section=header&text=LIVESH%20L.&fontSize=68&fontColor=FFFFFF&fontAlignY=36&desc=AI%20FORWARD%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20SECURITY&descAlignY=61&descSize=17&animation=twinkling" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=700&color=60A5FA&center=true&vCenter=true&width=850&lines=LLM+Systems+%7C+RAG+%7C+CAG+%7C+MAG;AI+Security+%7C+Context+Engineering;Computer+Vision+%7C+FastAPI+%7C+Cloud;Build+%E2%86%92+Measure+%E2%86%92+Secure+%E2%86%92+Ship" />
+<!-- 3D / CYBER CORE -->
+
+<table>
+<tr>
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/◈-38BDF8?style=for-the-badge&labelColor=020617"/>
 
 <br>
+
+### `LLM`
+
+`Transformers`
+
+`OpenBioLLM`
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/◇-A855F7?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+### `RAG`
+
+`BM25`
+
+`FAISS`
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/◆-22D3EE?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+### `CONTEXT`
+
+`CAG`
+
+`MAG`
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/⬡-F472B6?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+### `SECURITY`
+
+`Guardrails`
+
+`Safety`
+
+</td>
+
+<td align="center" width="20%">
+
+<img src="https://img.shields.io/badge/◉-34D399?style=for-the-badge&labelColor=020617"/>
+
+<br>
+
+### `SYSTEMS`
+
+`FastAPI`
+
+`Docker`
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=600&color=60A5FA&center=true&vCenter=true&width=950&height=60&lines=Designing+Intelligent+Systems;Engineering+LLM+%2B+RAG+Architectures;Building+Secure+Context-Aware+AI;Turning+Models+Into+Production+Systems;Build+%E2%86%92+Measure+%E2%86%92+Secure+%E2%86%92+Ship" />
+
+<br>
+
+<!-- FLOATING 3D TECHNOLOGY ORBIT -->
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,react,docker,aws,postgres,git,github&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20ENGINEERING-050816?style=for-the-badge&logo=probot&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-111827?style=for-the-badge&logo=openai&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/CONTEXT%20ENGINEERING-050816?style=for-the-badge&logo=databricks&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/PRODUCTION%20AI-111827?style=for-the-badge&logo=docker&logoColor=34D399"/>
+
+<br><br>
 
 <a href="https://github.com/Livesh-L-28">
-<img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="https://www.linkedin.com/in/livesh-l-aa9821322/">
-<img src="https://img.shields.io/badge/LinkedIn-0B1530?style=for-the-badge&logo=linkedin&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/LinkedIn-020617?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
+
 <a href="mailto:liveshjaidj@gmail.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/Contact-020617?style=for-the-badge&logo=gmail&logoColor=F472B6"/>
 </a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Livesh-L-28&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+
+<br><br>
+
+<!-- ANIMATED DATA STREAM -->
+
+```text
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   INPUT                                                         ║
+║     │                                                            ║
+║     ▼                                                            ║
+║   RETRIEVE ─────► RERANK ─────► ORCHESTRATE                     ║
+║                                      │                           ║
+║                         ┌────────────┼────────────┐              ║
+║                         ▼            ▼            ▼              ║
+║                       CAG          MAG        GUARDRAILS         ║
+║                         └────────────┼────────────┘              ║
+║                                      ▼                           ║
+║                                  LLM CORE                        ║
+║                                      │                           ║
+║                                      ▼                           ║
+║                              GROUNDED OUTPUT                     ║
+║                                                                  ║
+║               BUILD  •  MEASURE  •  SECURE  •  SHIP              ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
----
 
 # 🧠 ABOUT ME
 
