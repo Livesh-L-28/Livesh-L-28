@@ -1,0 +1,57 @@
+<svg width="1400" height="760" viewBox="0 0 1400 760" xmlns="http://www.w3.org/2000/svg">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#050816"/><stop offset=".55" stop-color="#0B1228"/><stop offset="1" stop-color="#15102D"/></linearGradient>
+ <linearGradient id="g1"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+ <linearGradient id="g2"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1400" height="760" rx="30" fill="url(#bg)"/>
+<text x="70" y="75" fill="#F8FAFC" font-family="Arial" font-size="30" font-weight="800">NexaRAG</text>
+<text x="70" y="108" fill="#94A3B8" font-family="Arial" font-size="16">RAG + CAG + MAG + Context Orchestration + Guardrails + Observability</text>
+
+<!-- central glass -->
+<g>
+ <rect x="500" y="145" width="400" height="100" rx="20" fill="#172033" stroke="url(#g1)" stroke-width="2"/>
+ <text x="700" y="187" fill="#60A5FA" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700">CONTEXT ORCHESTRATOR</text>
+ <text x="700" y="215" fill="#CBD5E1" text-anchor="middle" font-family="Arial" font-size="13">7-tier priority fusion</text>
+</g>
+
+<!-- three modules -->
+<g font-family="Arial" text-anchor="middle">
+ <rect x="80" y="310" width="350" height="125" rx="22" fill="#111827" stroke="#38BDF8" stroke-width="2"/>
+ <text x="255" y="350" fill="#BAE6FD" font-size="19" font-weight="700">RAG</text>
+ <text x="255" y="380" fill="#94A3B8" font-size="13">BM25 + FAISS + Cross-Encoder</text>
+ <text x="255" y="405" fill="#64748B" font-size="12">Hybrid retrieval · reranking</text>
+
+ <rect x="525" y="310" width="350" height="125" rx="22" fill="#111827" stroke="#8B5CF6" stroke-width="2"/>
+ <text x="700" y="350" fill="#DDD6FE" font-size="19" font-weight="700">CAG</text>
+ <text x="700" y="380" fill="#94A3B8" font-size="13">Namespaced cache</text>
+ <text x="700" y="405" fill="#64748B" font-size="12">Fast cached-knowledge lookup</text>
+
+ <rect x="970" y="310" width="350" height="125" rx="22" fill="#111827" stroke="#22D3EE" stroke-width="2"/>
+ <text x="1145" y="350" fill="#CFFAFE" font-size="19" font-weight="700">MAG</text>
+ <text x="1145" y="380" fill="#94A3B8" font-size="13">Memory ranking</text>
+ <text x="1145" y="405" fill="#64748B" font-size="12">Relevance · importance · recency</text>
+</g>
+
+<!-- security layer -->
+<rect x="360" y="510" width="680" height="105" rx="22" fill="#111827" stroke="url(#g2)" stroke-width="2"/>
+<text x="700" y="550" fill="#D1FAE5" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700">NEMO GUARDRAILS · FAIL-CLOSED SECURITY</text>
+<text x="700" y="580" fill="#94A3B8" text-anchor="middle" font-family="Arial" font-size="13">Input · Retrieval · Output  |  prompt injection · tenant leakage · secret exfiltration</text>
+
+<!-- LLM -->
+<rect x="510" y="670" width="380" height="55" rx="18" fill="#172033" stroke="#60A5FA" stroke-width="2"/>
+<text x="700" y="704" fill="#F8FAFC" text-anchor="middle" font-family="Arial" font-size="16" font-weight="700">LLM → GROUNDED RESPONSE</text>
+
+<!-- connectors -->
+<g fill="none" stroke-width="3" filter="url(#glow)">
+ <path d="M700 245V310" stroke="url(#g1)"/>
+ <path d="M610 245V275H255V310" stroke="#38BDF8"/>
+ <path d="M790 245V275H1145V310" stroke="#22D3EE"/>
+ <path d="M255 435V475H700V510" stroke="#38BDF8"/>
+ <path d="M700 435V510" stroke="#8B5CF6"/>
+ <path d="M1145 435V475H700V510" stroke="#22D3EE"/>
+ <path d="M700 615V670" stroke="#60A5FA"/>
+</g>
+<circle cx="700" cy="270" r="6" fill="#60A5FA"><animate attributeName="r" values="5;10;5" dur="2s" repeatCount="indefinite"/></circle>
+</svg>

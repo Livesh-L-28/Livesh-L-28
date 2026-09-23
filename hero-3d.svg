@@ -1,0 +1,72 @@
+<svg width="1400" height="620" viewBox="0 0 1400 620" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop stop-color="#050816"/><stop offset=".48" stop-color="#0B1228"/><stop offset="1" stop-color="#11102B"/>
+  </linearGradient>
+  <radialGradient id="blue"><stop stop-color="#38BDF8" stop-opacity=".55"/><stop offset="1" stop-color="#38BDF8" stop-opacity="0"/></radialGradient>
+  <radialGradient id="violet"><stop stop-color="#8B5CF6" stop-opacity=".48"/><stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="cyan"><stop stop-color="#22D3EE" stop-opacity=".35"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+  <linearGradient id="edge" x1="0" x2="1"><stop stop-color="#38BDF8"/><stop offset=".5" stop-color="#8B5CF6"/><stop offset="1" stop-color="#22D3EE"/></linearGradient>
+  <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity=".13"/><stop offset="1" stop-color="#FFFFFF" stop-opacity=".035"/></linearGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="35"/></filter>
+  <filter id="glow"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#64748B" stroke-opacity=".12"/></pattern>
+</defs>
+
+<rect width="1400" height="620" rx="34" fill="url(#bg)"/>
+<rect width="1400" height="620" rx="34" fill="url(#grid)"/>
+
+<circle cx="190" cy="95" r="250" fill="url(#blue)" filter="url(#blur)"/>
+<circle cx="1130" cy="120" r="260" fill="url(#violet)" filter="url(#blur)"/>
+<circle cx="1040" cy="510" r="220" fill="url(#cyan)" filter="url(#blur)"/>
+
+<!-- floating 3D orbs -->
+<g filter="url(#glow)">
+ <circle cx="1070" cy="112" r="10" fill="#38BDF8"/>
+ <circle cx="1190" cy="220" r="6" fill="#A78BFA"/>
+ <circle cx="980" cy="475" r="8" fill="#22D3EE"/>
+ <circle cx="1270" cy="470" r="5" fill="#34D399"/>
+ <circle cx="220" cy="490" r="6" fill="#818CF8"/>
+</g>
+
+<!-- hero copy -->
+<text x="82" y="112" fill="#94A3B8" font-family="Arial,sans-serif" font-size="17" font-weight="600" letter-spacing="6">AI FORWARD ENGINEERING</text>
+<text x="82" y="192" fill="#F8FAFC" font-family="Arial,sans-serif" font-size="68" font-weight="800">LIVESH L.</text>
+<text x="82" y="239" fill="#60A5FA" font-family="Arial,sans-serif" font-size="27" font-weight="700">AI / LLM ENGINEER</text>
+<text x="82" y="286" fill="#CBD5E1" font-family="Arial,sans-serif" font-size="18">LLM Systems · RAG · Context Engineering · AI Security</text>
+
+<!-- glass skill chips -->
+<g font-family="Arial,sans-serif" font-size="14" font-weight="600">
+ <g><rect x="82" y="335" width="92" height="38" rx="19" fill="url(#glass)" stroke="#38BDF8" stroke-opacity=".5"/><text x="128" y="359" fill="#BAE6FD" text-anchor="middle">LLM</text></g>
+ <g><rect x="186" y="335" width="92" height="38" rx="19" fill="url(#glass)" stroke="#8B5CF6" stroke-opacity=".55"/><text x="232" y="359" fill="#DDD6FE" text-anchor="middle">RAG</text></g>
+ <g><rect x="290" y="335" width="92" height="38" rx="19" fill="url(#glass)" stroke="#22D3EE" stroke-opacity=".55"/><text x="336" y="359" fill="#CFFAFE" text-anchor="middle">CAG</text></g>
+ <g><rect x="394" y="335" width="92" height="38" rx="19" fill="url(#glass)" stroke="#34D399" stroke-opacity=".55"/><text x="440" y="359" fill="#D1FAE5" text-anchor="middle">MAG</text></g>
+ <g><rect x="498" y="335" width="130" height="38" rx="19" fill="url(#glass)" stroke="#A78BFA" stroke-opacity=".55"/><text x="563" y="359" fill="#EDE9FE" text-anchor="middle">AI SECURITY</text></g>
+</g>
+
+<!-- 3D architecture cube -->
+<g transform="translate(850 105)">
+ <polygon points="180,0 360,105 180,210 0,105" fill="#111827" stroke="url(#edge)" stroke-width="2"/>
+ <polygon points="0,105 180,210 180,430 0,325" fill="#0F172A" stroke="#334155" stroke-width="2"/>
+ <polygon points="360,105 180,210 180,430 360,325" fill="#15122F" stroke="#334155" stroke-width="2"/>
+
+ <!-- layers -->
+ <g font-family="Arial,sans-serif" text-anchor="middle">
+  <g><rect x="76" y="67" width="208" height="46" rx="12" fill="#172033" stroke="#38BDF8"/><text x="180" y="96" fill="#E0F2FE" font-size="14" font-weight="700">INTELLIGENCE</text></g>
+  <g><rect x="72" y="145" width="216" height="46" rx="12" fill="#172033" stroke="#8B5CF6"/><text x="180" y="174" fill="#EDE9FE" font-size="14" font-weight="700">CONTEXT ENGINE</text></g>
+  <g><rect x="75" y="223" width="210" height="46" rx="12" fill="#172033" stroke="#22D3EE"/><text x="180" y="252" fill="#CFFAFE" font-size="14" font-weight="700">GUARDRAILS</text></g>
+  <g><rect x="78" y="301" width="204" height="46" rx="12" fill="#172033" stroke="#34D399"/><text x="180" y="330" fill="#D1FAE5" font-size="14" font-weight="700">PRODUCTION</text></g>
+ </g>
+ <circle cx="180" cy="210" r="8" fill="#60A5FA" filter="url(#glow)">
+   <animate attributeName="r" values="6;11;6" dur="2.2s" repeatCount="indefinite"/>
+ </circle>
+</g>
+
+<!-- data stream -->
+<path d="M80 525 C300 470 480 565 670 500 S1060 430 1320 515" fill="none" stroke="url(#edge)" stroke-width="2" opacity=".7"/>
+<circle r="5" fill="#60A5FA" filter="url(#glow)">
+ <animateMotion dur="5s" repeatCount="indefinite" path="M80 525 C300 470 480 565 670 500 S1060 430 1320 515"/>
+</circle>
+
+<text x="82" y="565" fill="#64748B" font-family="monospace" font-size="14">$ build → measure → secure → ship</text>
+</svg>
