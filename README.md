@@ -1,21 +1,18 @@
-<!-- ================================================================ -->
-<!--                    LIVESH L. — GITHUB PROFILE                   -->
-<!--        AI FORWARD ENGINEERING • LLM • RAG • AI SYSTEMS          -->
-<!-- ================================================================ -->
+<!-- ========================================================= -->
+<!--                    LIVESH L. GITHUB PROFILE               -->
+<!-- ========================================================= -->
 
 <div align="center">
 
-<!-- ========================== HERO =============================== -->
-
 <img
-src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0B1530,45:312E81,70:6D28D9,100:A21CAF&height=300&section=header&text=LIVESH%20L.&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=AI%20FORWARD%20ENGINEER%20%E2%80%A2%20LLM%20SYSTEMS%20%E2%80%A2%20RAG%20%E2%80%A2%20AI%20SECURITY&descAlignY=62&descSize=17&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0B1530,45:312E81,70:6D28D9,100:A21CAF&height=320&section=header&text=LIVESH%20L.&fontSize=78&fontColor=FFFFFF&fontAlignY=34&desc=AI%20FORWARD%20ENGINEER%20%E2%80%A2%20GENERATIVE%20AI%20%E2%80%A2%20LLM%20SYSTEMS&descAlignY=61&descSize=18&animation=twinkling"
 width="100%"
 />
 
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=600&color=60A5FA&center=true&vCenter=true&width=1000&height=65&lines=AI+Developer+%7C+Machine+Learning+%7C+Computer+Vision+%7C+Generative+AI;Engineering+LLM+%2B+RAG+Applications;Building+Context-Aware+%26+Secure+AI+Systems;Python+%7C+FastAPI+%7C+React+%7C+Docker+%7C+AWS;Turning+AI+Models+Into+Production-Ready+Systems;BUILD+%E2%86%92+MEASURE+%E2%86%92+SECURE+%E2%86%92+SHIP"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=650&color=60A5FA&center=true&vCenter=true&width=1000&height=65&lines=AI+Forward+Engineer;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Generative+AI+%7C+LLMs+%7C+RAG+%7C+AI+Agents;Context+Engineering+%7C+CAG+%7C+MAG+%7C+AI+Security;FastAPI+%7C+React+%7C+Docker+%7C+AWS+%7C+CI%2FCD;Building+Production-Oriented+Intelligent+Systems"
 />
 
 <br><br>
@@ -24,8 +21,15 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 
 <br><br>
 
+<img src="https://img.shields.io/badge/AI%20FORWARD%20ENGINEERING-020617?style=for-the-badge&logoColor=60A5FA"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-0B1530?style=for-the-badge&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/LLM%20SYSTEMS-020617?style=for-the-badge&logoColor=22D3EE"/>
+<img src="https://img.shields.io/badge/RAG%20%2B%20CONTEXT-0B1530?style=for-the-badge&logoColor=F472B6"/>
+
+<br><br>
+
 <a href="https://github.com/Livesh-L-28">
-<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/livesh-l-aa9821322/">
@@ -38,29 +42,27 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 
 <br><br>
 
-<img
-src="https://komarev.com/ghpvc/?username=Livesh-L-28&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"
-/>
+<img src="https://komarev.com/ghpvc/?username=Livesh-L-28&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-<!-- ================================================================ -->
-<!--                    AI ENGINEERING CORE                           -->
-<!-- ================================================================ -->
+<!-- ========================================================= -->
+<!--                    AI ENGINEERING CORE                    -->
+<!-- ========================================================= -->
 
 <div align="center">
 
 <img
-src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0B1530,55:312E81,80:6D28D9,100:A21CAF&height=110&text=AI%20ENGINEERING%20CORE&fontSize=34&fontColor=FFFFFF&animation=twinkling"
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0B1530,55:312E81,80:6D28D9,100:A21CAF&height=115&text=AI%20ENGINEERING%20CORE&fontSize=34&fontColor=FFFFFF&animation=twinkling"
 width="100%"
 />
 
-<br>
+<br><br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=900&height=45&lines=LLM+%E2%86%92+RAG+%E2%86%92+CONTEXT+%E2%86%92+SECURITY+%E2%86%92+SYSTEMS;RETRIEVAL+%E2%80%A2+MEMORY+%E2%80%A2+ORCHESTRATION+%E2%80%A2+GUARDRAILS;FROM+MODELS+TO+PRODUCTION-READY+AI"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=950&height=45&lines=LLM+%E2%86%92+RAG+%E2%86%92+CONTEXT+%E2%86%92+SECURITY+%E2%86%92+PRODUCTION;RETRIEVAL+%E2%80%A2+MEMORY+%E2%80%A2+ORCHESTRATION+%E2%80%A2+GUARDRAILS;FROM+AI+MODELS+TO+INTELLIGENT+SYSTEMS"
 />
 
 <br><br>
@@ -92,8 +94,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 `FAISS`
 
-`ChromaDB`
-
 `Hybrid Retrieval`
 
 </td>
@@ -108,9 +108,7 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 `MAG`
 
-`Context Engineering`
-
-`Fusion`
+`Context Fusion`
 
 </td>
 
@@ -126,8 +124,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 `Safety`
 
-`Observability`
-
 </td>
 
 <td align="center" width="20%">
@@ -142,8 +138,6 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 `PostgreSQL`
 
-`CI/CD`
-
 </td>
 
 </tr>
@@ -153,35 +147,41 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=1
 
 ```text
                          ╔══════════════════════╗
-                         ║   INTELLIGENT AI     ║
-                         ║        ◉ CORE        ║
+                         ║    INTELLIGENT AI    ║
+                         ║        CORE          ║
                          ╚══════════╤═══════════╝
                                     │
-                  ┌─────────────────┼─────────────────┐
-                  │                 │                 │
-                  ▼                 ▼                 ▼
-             ┌─────────┐       ┌─────────┐      ┌─────────┐
-             │   LLM   │       │   RAG   │      │   CV    │
-             │         │       │         │      │         │
-             │Models   │       │Retrieval│      │Vision   │
-             └────┬────┘       └────┬────┘      └────┬────┘
-                  │                 │                 │
-                  └─────────────────┼─────────────────┘
+              ┌─────────────────────┼─────────────────────┐
+              │                     │                     │
+              ▼                     ▼                     ▼
+        ┌───────────┐         ┌───────────┐         ┌───────────┐
+        │    LLM    │         │    RAG    │         │    CV     │
+        │           │         │           │         │           │
+        │ Models    │         │ Retrieval │         │ Vision    │
+        │ Agents    │         │ Vector DB │         │ Detection │
+        └─────┬─────┘         └─────┬─────┘         └─────┬─────┘
+              │                     │                     │
+              └─────────────────────┼─────────────────────┘
+                                    │
                                     ▼
                          ╔══════════════════════╗
                          ║ CONTEXT ENGINEERING  ║
-                         ║  RAG • CAG • MAG      ║
-                         ║  FUSION • MEMORY      ║
+                         ║                      ║
+                         ║ RAG • CAG • MAG      ║
+                         ║ MEMORY • FUSION      ║
                          ╚══════════╤═══════════╝
                                     │
                                     ▼
                          ╔══════════════════════╗
                          ║    AI GUARDRAILS     ║
-                         ║ SECURITY • SAFETY    ║
+                         ║                      ║
+                         ║ INPUT • RETRIEVAL    ║
+                         ║ DIALOG • OUTPUT      ║
                          ╚══════════╤═══════════╝
                                     │
                                     ▼
                          ╔══════════════════════╗
                          ║   PRODUCTION AI      ║
+                         ║                      ║
                          ║ API • CLOUD • CI/CD  ║
                          ╚══════════════════════╝
