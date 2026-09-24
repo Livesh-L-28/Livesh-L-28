@@ -364,6 +364,13 @@ I enjoy turning AI models into modular, secure, observable and deployable system
 </div>
 
 ## 🔷 NexaRAG
+<p align="center">
+  <img
+    src="./assets/nexarag-architecture.gif"
+    width="100%"
+    alt="NexaRAG animated architecture"
+  />
+</p>
 
 ### `RAG + CAG + MAG + Context Orchestration Platform`
 
@@ -421,6 +428,13 @@ EMBEDDINGS
 ---
 
 ## 🧬 MedicalTransformerLM
+<p align="center">
+  <img
+    src="./assets/medical-llm-pipeline.gif"
+    width="100%"
+    alt="Medical Transformer LM animated architecture"
+  />
+</p>
 
 ### `Domain-Specific Medical LLM + RAG`
 
@@ -460,6 +474,13 @@ Medical Documents
 ---
 
 ## 👁️ AI Visual Memory System
+<p align="center">
+  <img
+    src="./assets/ai-visual-memory.gif"
+    width="100%"
+    alt="AI Visual Memory animated architecture"
+  />
+</p>
 
 ### `Computer Vision + Persistent Visual Memory`
 
@@ -492,6 +513,13 @@ Semantic Search
 ---
 
 ## ⚙️ FastAPI CI/CD Lab
+<p align="center">
+  <img
+    src="./assets/fastapi-cicd.gif"
+    width="100%"
+    alt="FastAPI CI/CD animated pipeline"
+  />
+</p>
 
 ### `Backend + Docker + Automated CI/CD`
 
@@ -522,6 +550,13 @@ Deployment Validation
 ---
 
 ## 🎓 UniGuide AI
+<p align="center">
+  <img
+    src="./assets/uniguide-rag.gif"
+    width="100%"
+    alt="UniGuide AI animated RAG pipeline"
+  />
+</p>
 
 ### `RAG-Based University Assistant`
 
@@ -535,6 +570,13 @@ Deployment Validation
 ---
 
 ## 🌱 Leviathan
+<p align="center">
+  <img
+    src="./assets/leviathan-pipeline.gif"
+    width="100%"
+    alt="Leviathan animated ML pipeline"
+  />
+</p>
 
 ### `AI Sustainability & Anti-Greenwashing Platform`
 
