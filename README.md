@@ -43,6 +43,171 @@ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=2
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Livesh-L-28&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS"/>
+<a href="#-published-pypi-packages--live-download-metrics">
+<img src="https://img.shields.io/badge/PyPI-4%20PACKAGES%20PUBLISHED-3775A9?style=for-the-badge&logo=pypi&logoColor=white"/>
+</a>
+<a href="#-published-pypi-packages--live-download-metrics">
+<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-2.6K%2B-10B981?style=for-the-badge&logo=pypi&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<!-- ========================================================= -->
+<!--        📦 PUBLISHED PYPI PACKAGES & LIVE METRICS         -->
+<!-- ========================================================= -->
+
+<div align="center" id="-published-pypi-packages--live-download-metrics">
+
+<img
+src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,25:0B1530,55:312E81,80:6D28D9,100:A21CAF&height=110&text=PUBLISHED%20PYPI%20PACKAGES&fontSize=32&fontColor=FFFFFF&animation=twinkling"
+width="100%"
+/>
+
+<br><br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=16&duration=2400&pause=600&color=38BDF8&center=true&vCenter=true&width=950&height=40&lines=4+PRODUCTION+PYPI+LIBRARIES+%E2%80%A2+2%2C600%2B+TOTAL+DOWNLOADS;LLM+RELIABILITY+%E2%80%A2+AI+SECURITY+GUARDRAILS+%E2%80%A2+AUTONOMOUS+AGENTS;PIP+INSTALL+LOGICFALCON+%E2%80%A2+AIRELIABILITY+%E2%80%A2+LLMFIREWALL-CORE"
+/>
+
+<br><br>
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th align="left" width="30%">📦 Package & Overview</th>
+      <th align="center" width="16%">🏷️ Latest Release</th>
+      <th align="center" width="20%">📥 Monthly Downloads</th>
+      <th align="center" width="16%">📊 Total Downloads</th>
+      <th align="center" width="18%">⚡ Quick Install & Source</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left">
+        <b><a href="https://pypi.org/project/logicfalcon/">logicfalcon</a></b><br>
+        <sub>LogicFalcon — Fast, precise engineering intelligence. Powered by AEGIS AI.</sub>
+      </td>
+      <td align="center">
+        <a href="https://pypi.org/project/logicfalcon/">
+          <img src="https://img.shields.io/pypi/v/logicfalcon?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="logicfalcon version"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pypistats.org/packages/logicfalcon">
+          <img src="https://img.shields.io/pypi/dm/logicfalcon?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="logicfalcon monthly downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pepy.tech/projects/logicfalcon">
+          <img src="https://static.pepy.tech/badge/logicfalcon" alt="logicfalcon total downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <code>pip install logicfalcon</code><br><br>
+        <a href="https://github.com/Livesh-L-28/logicfalcon">
+          <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://pypi.org/project/logicfalcon/">
+          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b><a href="https://pypi.org/project/aireliability/">aireliability</a></b><br>
+        <sub>Open-source reliability and regression-testing framework for LLM apps & AI agents.</sub>
+      </td>
+      <td align="center">
+        <a href="https://pypi.org/project/aireliability/">
+          <img src="https://img.shields.io/pypi/v/aireliability?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="aireliability version"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pypistats.org/packages/aireliability">
+          <img src="https://img.shields.io/pypi/dm/aireliability?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="aireliability monthly downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pepy.tech/projects/aireliability">
+          <img src="https://static.pepy.tech/badge/aireliability" alt="aireliability total downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <code>pip install aireliability</code><br><br>
+        <a href="https://github.com/aireliability/aireliability">
+          <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://pypi.org/project/aireliability/">
+          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b><a href="https://pypi.org/project/llmfirewall-core/">llmfirewall-core</a></b><br>
+        <sub>Lightweight, provider-agnostic security & policy enforcement layer for LLMs, RAG & agents.</sub>
+      </td>
+      <td align="center">
+        <a href="https://pypi.org/project/llmfirewall-core/">
+          <img src="https://img.shields.io/pypi/v/llmfirewall-core?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="llmfirewall-core version"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pypistats.org/packages/llmfirewall-core">
+          <img src="https://img.shields.io/pypi/dm/llmfirewall-core?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="llmfirewall-core monthly downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pepy.tech/projects/llmfirewall-core">
+          <img src="https://static.pepy.tech/badge/llmfirewall-core" alt="llmfirewall-core total downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <code>pip install llmfirewall-core</code><br><br>
+        <a href="https://github.com/Livesh-L-28/LLMFirewall">
+          <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://pypi.org/project/llmfirewall-core/">
+          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="left">
+        <b><a href="https://pypi.org/project/aegis-resilience/">aegis-resilience</a></b><br>
+        <sub>Autonomous reliability engineering framework for AI incident investigation & remediation.</sub>
+      </td>
+      <td align="center">
+        <a href="https://pypi.org/project/aegis-resilience/">
+          <img src="https://img.shields.io/pypi/v/aegis-resilience?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="aegis-resilience version"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pypistats.org/packages/aegis-resilience">
+          <img src="https://img.shields.io/pypi/dm/aegis-resilience?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="aegis-resilience monthly downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pepy.tech/projects/aegis-resilience">
+          <img src="https://static.pepy.tech/badge/aegis-resilience" alt="aegis-resilience total downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <code>pip install aegis-resilience</code><br><br>
+        <a href="https://github.com/Livesh-L-28/AEGIS-Framework">
+          <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://pypi.org/project/aegis-resilience/">
+          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
 
 </div>
 
