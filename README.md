@@ -263,50 +263,74 @@ alt="PyPI Section Header"
 ---
 
 <!-- ========================================================= -->
-<!--                    ⚡ TECHNICAL TOOLING                   -->
+<!--                    ⚡ TECHNICAL SKILLS                    -->
 <!-- ========================================================= -->
 
-# ⚡ TECHNICAL TOOLING & SYSTEMS STACK
+# ⚡ TECHNICAL SKILLS & STACK
 
 <div align="center">
 
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h4>🧠 AI & LLM Systems</h4>
-      <ul>
-        <li>PyTorch &bull; TensorFlow</li>
-        <li>Transformers &bull; Hugging Face</li>
-        <li>RAG &bull; CAG &bull; MAG Context Fusion</li>
-        <li>NVIDIA NeMo Guardrails</li>
-        <li>FAISS &bull; ChromaDB &bull; BM25</li>
-        <li>OpenCV &bull; Computer Vision</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>⚙️ Backend & Systems</h4>
-      <ul>
-        <li>FastAPI &bull; Flask &bull; ASP.NET Core</li>
-        <li>PostgreSQL &bull; SQLite &bull; MongoDB</li>
-        <li>Docker &bull; Containerization</li>
-        <li>uv &bull; Poetry &bull; Packaging</li>
-        <li>Alembic &bull; Database Migrations</li>
-        <li>REST APIs &bull; SSE Streaming</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h4>☁️ Cloud, DevOps & Tools</h4>
-      <ul>
-        <li>AWS (EC2, S3) &bull; Render &bull; Vercel</li>
-        <li>GitHub Actions CI/CD</li>
-        <li>TypeScript &bull; React &bull; Next.js</li>
-        <li>Linux &bull; Bash Scripting</li>
-        <li>PyRight &bull; Pytest &bull; Static Analysis</li>
-        <li>WPF &bull; .NET 8 (Desktop Systems)</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🧠 AI / MACHINE LEARNING / DEEP LEARNING
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,numpy,pandas&theme=dark" alt="AI & ML Skills" />
+
+<br><br>
+
+`Python` &bull; `PyTorch` &bull; `TensorFlow` &bull; `Scikit-learn` &bull; `NumPy` &bull; `Pandas` &bull; `Deep Learning`
+
+---
+
+### 🤖 LLM, RAG & CONTEXT ENGINEERING
+<img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NeMo_Guardrails-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/FAISS-0A84FF?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ChromaDB-FC521F?style=for-the-badge&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/BM25-4F46E5?style=for-the-badge&logoColor=white"/>
+
+<br><br>
+
+`RAG` &bull; `CAG` &bull; `MAG Context Fusion` &bull; `NeMo Guardrails` &bull; `Prompt Injection Defense` &bull; `Zero-Trust AI` &bull; `Vector Search`
+
+---
+
+### 👁️ COMPUTER VISION
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="Computer Vision Skills" />
+
+<br><br>
+
+`OpenCV` &bull; `YOLOv8` &bull; `Object Detection` &bull; `Spatial-Temporal Tracking` &bull; `Visual Memory Store`
+
+---
+
+### ⚙️ BACKEND & APIS
+<img src="https://skillicons.dev/icons?i=fastapi,flask,dotnet&theme=dark" alt="Backend Skills" />
+
+<br><br>
+
+`FastAPI` &bull; `Flask` &bull; `ASP.NET Core` &bull; `REST APIs` &bull; `SSE Streaming` &bull; `uv / Packaging` &bull; `Alembic`
+
+---
+
+### 🗄️ DATABASES & CLOUD DEVOPS
+<img src="https://skillicons.dev/icons?i=postgres,sqlite,mongodb,mysql,aws,docker,githubactions,linux&theme=dark" alt="Database & Cloud Skills" />
+
+<br><br>
+
+`PostgreSQL` &bull; `SQLite` &bull; `MongoDB` &bull; `MySQL` &bull; `AWS (EC2, S3)` &bull; `Docker` &bull; `GitHub Actions` &bull; `Linux`
+
+---
+
+### 💻 PROGRAMMING LANGUAGES & FRONTEND
+<img src="https://skillicons.dev/icons?i=python,cs,cpp,c,ts,js,react,tailwind&theme=dark" alt="Programming Languages" />
+
+<br><br>
+
+`Python` &bull; `C#` &bull; `C++` &bull; `C` &bull; `TypeScript` &bull; `JavaScript` &bull; `React` &bull; `SQL`
 
 </div>
 
