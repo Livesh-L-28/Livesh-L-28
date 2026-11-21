@@ -150,61 +150,23 @@ alt="PyPI Section Header"
     </tr>
     <tr>
       <td align="left">
-        <b><a href="https://pypi.org/project/llmfirewall-core/">llmfirewall-core</a></b><br>
+        <b><a href="https://github.com/Livesh-L-28/LLMFirewall">llmfirewall-core</a></b><br>
         <sub>Zero-trust runtime guardrail engine for prompt injection & data leak prevention.</sub>
       </td>
       <td align="center">
-        <a href="https://pypi.org/project/llmfirewall-core/">
-          <img src="https://img.shields.io/pypi/v/llmfirewall-core?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="llmfirewall-core version"/>
+        <a href="https://github.com/Livesh-L-28/LLMFirewall">
+          <img src="https://img.shields.io/badge/RELEASE-v1.4.0-6366F1?style=for-the-badge" alt="llmfirewall-core version"/>
         </a>
       </td>
       <td align="center">
-        <a href="https://pypistats.org/packages/llmfirewall-core">
-          <img src="https://img.shields.io/pypi/dm/llmfirewall-core?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="llmfirewall-core monthly downloads"/>
-        </a>
+        <img src="https://img.shields.io/badge/LATENCY-%3C45MS-22C55E?style=for-the-badge" alt="Latency"/>
       </td>
       <td align="center">
-        <a href="https://pepy.tech/projects/llmfirewall-core">
-          <img src="https://static.pepy.tech/badge/llmfirewall-core" alt="llmfirewall-core total downloads"/>
-        </a>
+        <img src="https://img.shields.io/badge/ACCURACY-98.4%25-0EA5E9?style=for-the-badge" alt="Accuracy"/>
       </td>
       <td align="center">
-        <code>pip install llmfirewall-core</code><br><br>
         <a href="https://github.com/Livesh-L-28/LLMFirewall">
           <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-        <a href="https://pypi.org/project/llmfirewall-core/">
-          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="left">
-        <b><a href="https://pypi.org/project/aegis-resilience/">aegis-resilience</a></b><br>
-        <sub>Autonomous reliability engineering framework for AI incident investigation & remediation.</sub>
-      </td>
-      <td align="center">
-        <a href="https://pypi.org/project/aegis-resilience/">
-          <img src="https://img.shields.io/pypi/v/aegis-resilience?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="aegis-resilience version"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://pypistats.org/packages/aegis-resilience">
-          <img src="https://img.shields.io/pypi/dm/aegis-resilience?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="aegis-resilience monthly downloads"/>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://pepy.tech/projects/aegis-resilience">
-          <img src="https://static.pepy.tech/badge/aegis-resilience" alt="aegis-resilience total downloads"/>
-        </a>
-      </td>
-      <td align="center">
-        <code>pip install aegis-resilience</code><br><br>
-        <a href="https://github.com/Livesh-L-28/AEGIS-Framework">
-          <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
-        </a>
-        <a href="https://pypi.org/project/aegis-resilience/">
-          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
         </a>
       </td>
     </tr>
