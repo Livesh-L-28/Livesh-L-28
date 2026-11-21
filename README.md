@@ -203,6 +203,14 @@ alt="PyPI Section Header"
 
 ---
 
+## ⚡ Robust-Adapt — Continual ML Optimization Engine
+* **Architecture:** 8-bit quantized `LowMemoryAdamW` optimizer, Resilient Layer Adaptation (RLA), and Uncertainty-guided Loss Correction (ULC) for continuous production training under drift.
+* **Benchmarks:** **73.44% memory reduction** without convergence penalty, 0.0 false drift resets, 83.2% corrupted batch rejection, and 343 verified passing unit & stress tests.
+* **Stack:** Python 3.10+, PyTorch, Quantized Kernels, Adaptive Optimization, Pytest.
+* 🔗 **[Explore Robust-Adapt Repository →](https://github.com/Livesh-L-28/robust-adapt)**
+
+---
+
 ## 🧬 MedicalTransformerLM — Domain-Specific Medical LLM + RAG
 <p align="center">
   <img src="./assets/medical-llm-pipeline.gif" width="100%" alt="Medical Transformer LM Pipeline"/>
