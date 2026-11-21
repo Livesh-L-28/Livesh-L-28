@@ -13,7 +13,7 @@ alt="Livesh L Header"
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=950&height=50&lines=Building+Production-Oriented+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+CAG+%7C+MAG+%7C+AI+Agents;AI+Security+Guardrails+%7C+Prompt+Injection+Defense;FastAPI+%7C+Docker+%7C+PostgreSQL+%7C+AWS+%7C+CI%2FCD;PyPI+Author%3A+logicfalcon+%E2%80%A2+aireliability+%E2%80%A2+llmfirewall+%E2%80%A2+aegis"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=950&height=50&lines=Building+Production-Oriented+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+CAG+%7C+MAG+%7C+AI+Agents;AI+Security+Guardrails+%7C+Prompt+Injection+Defense;FastAPI+%7C+Docker+%7C+PostgreSQL+%7C+AWS+%7C+CI%2FCD;PyPI+Author%3A+logicfalcon+%E2%80%A2+aireliability+%E2%80%A2+robust-adapt"
 alt="Typing Subtitle"
 />
 
@@ -53,10 +53,10 @@ alt="Typing Subtitle"
 
 <img src="https://komarev.com/ghpvc/?username=Livesh-L-28&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
 <a href="#-published-pypi-packages--live-download-metrics">
-<img src="https://img.shields.io/badge/PyPI-PACKAGES%20PUBLISHED-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Published"/>
+<img src="https://img.shields.io/badge/PyPI-3%20PACKAGES%20PUBLISHED-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Published"/>
 </a>
 <a href="#-published-pypi-packages--live-download-metrics">
-<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-2.6K%2B-10B981?style=for-the-badge&logo=pypi&logoColor=white" alt="Total Downloads"/>
+<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-4.0K%2B-10B981?style=for-the-badge&logo=pypi&logoColor=white" alt="Total Downloads"/>
 </a>
 
 </div>
@@ -80,11 +80,11 @@ alt="PyPI Section Header"
 <table width="100%">
   <thead>
     <tr>
-      <th align="left" width="30%">📦 Package & Overview</th>
+      <th align="left" width="28%">📦 Package & Overview</th>
       <th align="center" width="16%">🏷️ Latest Release</th>
       <th align="center" width="20%">📥 Monthly Downloads</th>
       <th align="center" width="16%">📊 Total Downloads</th>
-      <th align="center" width="18%">⚡ Quick Install & Source</th>
+      <th align="center" width="20%">⚡ Quick Install & Source</th>
     </tr>
   </thead>
   <tbody>
@@ -105,7 +105,7 @@ alt="PyPI Section Header"
       </td>
       <td align="center">
         <a href="https://pepy.tech/projects/logicfalcon">
-          <img src="https://static.pepy.tech/badge/logicfalcon" alt="logicfalcon total downloads"/>
+          <img src="https://img.shields.io/pepy/dt/logicfalcon?style=for-the-badge&color=0EA5E9" alt="logicfalcon total downloads"/>
         </a>
       </td>
       <td align="center">
@@ -135,7 +135,7 @@ alt="PyPI Section Header"
       </td>
       <td align="center">
         <a href="https://pepy.tech/projects/aireliability">
-          <img src="https://static.pepy.tech/badge/aireliability" alt="aireliability total downloads"/>
+          <img src="https://img.shields.io/pepy/dt/aireliability?style=for-the-badge&color=0EA5E9" alt="aireliability total downloads"/>
         </a>
       </td>
       <td align="center">
@@ -150,23 +150,31 @@ alt="PyPI Section Header"
     </tr>
     <tr>
       <td align="left">
-        <b><a href="https://github.com/Livesh-L-28/LLMFirewall">llmfirewall-core</a></b><br>
-        <sub>Zero-trust runtime guardrail engine for prompt injection & data leak prevention.</sub>
+        <b><a href="https://pypi.org/project/robust-adapt/">robust-adapt</a></b><br>
+        <sub>Continual ML optimization engine with 8-bit adaptive quantization & drift correction.</sub>
       </td>
       <td align="center">
-        <a href="https://github.com/Livesh-L-28/LLMFirewall">
-          <img src="https://img.shields.io/badge/RELEASE-v1.4.0-6366F1?style=for-the-badge" alt="llmfirewall-core version"/>
+        <a href="https://pypi.org/project/robust-adapt/">
+          <img src="https://img.shields.io/pypi/v/robust-adapt?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="robust-adapt version"/>
         </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/LATENCY-%3C45MS-22C55E?style=for-the-badge" alt="Latency"/>
+        <a href="https://pypistats.org/packages/robust-adapt">
+          <img src="https://img.shields.io/pypi/dm/robust-adapt?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="robust-adapt monthly downloads"/>
+        </a>
       </td>
       <td align="center">
-        <img src="https://img.shields.io/badge/ACCURACY-98.4%25-0EA5E9?style=for-the-badge" alt="Accuracy"/>
+        <a href="https://pepy.tech/projects/robust-adapt">
+          <img src="https://img.shields.io/pepy/dt/robust-adapt?style=for-the-badge&color=0EA5E9" alt="robust-adapt total downloads"/>
+        </a>
       </td>
       <td align="center">
-        <a href="https://github.com/Livesh-L-28/LLMFirewall">
+        <code>pip install robust-adapt</code><br><br>
+        <a href="https://github.com/Livesh-L-28/robust-adapt">
           <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://pypi.org/project/robust-adapt/">
+          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
         </a>
       </td>
     </tr>
@@ -196,6 +204,16 @@ alt="PyPI Section Header"
 ---
 
 ## 🛡️ LLMFirewall — Defensive AI Security Layer
+<a href="https://github.com/Livesh-L-28/LLMFirewall">
+  <img src="https://img.shields.io/badge/RELEASE-v1.4.0-6366F1?style=for-the-badge" alt="Release"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/LATENCY-%3C45MS-22C55E?style=for-the-badge" alt="Latency"/>
+&nbsp;
+<img src="https://img.shields.io/badge/ACCURACY-98.4%25-0EA5E9?style=for-the-badge" alt="Accuracy"/>
+
+<br><br>
+
 * **Architecture:** Runtime policy enforcement, jailbreak detection, prompt injection mitigation, and sensitive PII masking.
 * **Benchmarks:** Sub-45ms inference latency overhead, 98.4% detection on OWASP Top 10 for LLMs benchmark datasets.
 * **Stack:** Python 3.11+, PyRight, MkDocs, Docker, Automated CI/CD.
@@ -204,6 +222,16 @@ alt="PyPI Section Header"
 ---
 
 ## ⚡ Robust-Adapt — Continual ML Optimization Engine
+<a href="https://github.com/Livesh-L-28/robust-adapt">
+  <img src="https://img.shields.io/pypi/v/robust-adapt?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="PyPI version"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/MEMORY%20REDUCTION-73.44%25-22C55E?style=for-the-badge" alt="Memory Reduction"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TESTS-343%20PASSED-0EA5E9?style=for-the-badge" alt="Tests Passed"/>
+
+<br><br>
+
 * **Architecture:** 8-bit quantized `LowMemoryAdamW` optimizer, Resilient Layer Adaptation (RLA), and Uncertainty-guided Loss Correction (ULC) for continuous production training under drift.
 * **Benchmarks:** **73.44% memory reduction** without convergence penalty, 0.0 false drift resets, 83.2% corrupted batch rejection, and 343 verified passing unit & stress tests.
 * **Stack:** Python 3.10+, PyTorch, Quantized Kernels, Adaptive Optimization, Pytest.
