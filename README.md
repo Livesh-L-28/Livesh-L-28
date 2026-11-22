@@ -13,7 +13,7 @@ alt="Livesh L Header"
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=950&height=50&lines=Building+Production-Oriented+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+CAG+%7C+MAG+%7C+AI+Agents;AI+Security+Guardrails+%7C+Prompt+Injection+Defense;FastAPI+%7C+Docker+%7C+PostgreSQL+%7C+AWS+%7C+CI%2FCD;PyPI+Author%3A+logicfalcon+%E2%80%A2+aireliability+%E2%80%A2+robust-adapt"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2400&pause=700&color=60A5FA&center=true&vCenter=true&width=950&height=50&lines=Building+Production-Oriented+Intelligent+Systems;Generative+AI+%7C+LLMs+%7C+RAG+%7C+CAG+%7C+MAG+%7C+AI+Agents;AI+Security+Guardrails+%7C+Prompt+Injection+Defense;FastAPI+%7C+Docker+%7C+PostgreSQL+%7C+AWS+%7C+CI%2FCD;PyPI+Author%3A+llmfirewall-core+%E2%80%A2+logicfalcon+%E2%80%A2+aireliability+%E2%80%A2+robust-adapt"
 alt="Typing Subtitle"
 />
 
@@ -53,10 +53,10 @@ alt="Typing Subtitle"
 
 <img src="https://komarev.com/ghpvc/?username=Livesh-L-28&style=for-the-badge&color=6366F1&label=PROFILE+VIEWS" alt="Profile Views"/>
 <a href="#-published-pypi-packages--live-download-metrics">
-<img src="https://img.shields.io/badge/PyPI-3%20PACKAGES%20PUBLISHED-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Published"/>
+<img src="https://img.shields.io/badge/PyPI-4%20PACKAGES%20PUBLISHED-3775A9?style=for-the-badge&logo=pypi&logoColor=white" alt="PyPI Published"/>
 </a>
 <a href="#-published-pypi-packages--live-download-metrics">
-<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-4.0K%2B-10B981?style=for-the-badge&logo=pypi&logoColor=white" alt="Total Downloads"/>
+<img src="https://img.shields.io/badge/TOTAL%20DOWNLOADS-8.2K%2B-10B981?style=for-the-badge&logo=pypi&logoColor=white" alt="Total Downloads"/>
 </a>
 
 </div>
@@ -88,6 +88,36 @@ alt="PyPI Section Header"
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td align="left">
+        <b><a href="https://pypi.org/project/llmfirewall-core/">llmfirewall-core</a></b><br>
+        <sub>Zero-trust runtime guardrail engine for prompt injection & data leak prevention.</sub>
+      </td>
+      <td align="center">
+        <a href="https://pypi.org/project/llmfirewall-core/">
+          <img src="https://img.shields.io/pypi/v/llmfirewall-core?style=for-the-badge&logo=pypi&logoColor=white&color=6366F1" alt="llmfirewall-core version"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pypistats.org/packages/llmfirewall-core">
+          <img src="https://img.shields.io/pypi/dm/llmfirewall-core?style=for-the-badge&logo=pypi&logoColor=white&color=22C55E" alt="llmfirewall-core monthly downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://pepy.tech/projects/llmfirewall-core">
+          <img src="https://img.shields.io/pepy/dt/llmfirewall-core?style=for-the-badge&color=0EA5E9" alt="llmfirewall-core total downloads"/>
+        </a>
+      </td>
+      <td align="center">
+        <code>pip install llmfirewall-core</code><br><br>
+        <a href="https://github.com/Livesh-L-28/LLMFirewall">
+          <img src="https://img.shields.io/badge/GitHub-Repo-0B1530?style=flat-square&logo=github&logoColor=white" alt="Repo"/>
+        </a>
+        <a href="https://pypi.org/project/llmfirewall-core/">
+          <img src="https://img.shields.io/badge/PyPI-Package-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="PyPI"/>
+        </a>
+      </td>
+    </tr>
     <tr>
       <td align="left">
         <b><a href="https://pypi.org/project/logicfalcon/">logicfalcon</a></b><br>
